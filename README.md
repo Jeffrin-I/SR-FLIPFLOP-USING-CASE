@@ -63,10 +63,10 @@ Developed by: Jeffrin I
 RegisterNumber:25009198
 
 
-**RTL LOGIC FOR FLIP
+**RTL LOGIC FOR FLIPFLOPS**
 
 ![pro-7_page-0001](https://github.com/user-attachments/assets/11f37f95-a4bf-4a8c-976c-ebe12a51e0a5)
-FLOPS**
+
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
