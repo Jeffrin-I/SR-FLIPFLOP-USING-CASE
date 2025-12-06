@@ -68,10 +68,8 @@ RegisterNumber:25009198
 ![pro-7_page-0001](https://github.com/user-attachments/assets/11f37f95-a4bf-4a8c-976c-ebe12a51e0a5)
 
 
-
 **TIMING DIGRAMS FOR FLIP FLOPS**
-
-![Dp-7_page-0001](https://github.com/user-attachments/assets/6e40539f-a0d6-4ba4-b466-14860d5df7b3)
+<img width="1032" height="240" alt="ex7" src="https://github.com/user-attachments/assets/d16de175-c669-48bf-b995-ee309836e0c1" />
 
 
 
