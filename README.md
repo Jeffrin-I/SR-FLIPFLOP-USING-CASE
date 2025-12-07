@@ -69,8 +69,8 @@ RegisterNumber:25009198
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1032" height="240" alt="ex7" src="https://github.com/user-attachments/assets/d16de175-c669-48bf-b995-ee309836e0c1" />
 
+![srfilptime_page-0001](https://github.com/user-attachments/assets/3635429b-30aa-4494-83fe-3ace891c5fea)
 
 
 **RESULTS**
